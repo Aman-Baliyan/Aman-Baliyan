@@ -1,49 +1,46 @@
-# 👋 Hi, I'm Aman Baliyan
+## Hi 👋, I'm Aman Baliyan
+Open Source Contributor | Java Developer | CS Student
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x)](YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aman-baliyan-573102324/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x)](https://x.com/baliyanaman423)
 
 ---
 
 ## 🧑‍💻 About Me
-I am an **Open Source Contributor & Java Developer** from **India 🇮🇳**
 
-- 🔭 Currently contributing to **Checkstyle**
-- 🌱 Learning **Static Code Analysis, Testing & Tooling**
-- 🎯 Goal: **Google Summer of Code (GSoC)**
-- 💬 Ask me about **Java, Git, Open Source**
+- 🎓 Pursuing MCA at NIT Jamshedpur
+- 💻 Backend Developer specializing in Spring Boot
+- 🔍 Currently learning Kubernetes, Jenkins
+- 🤝 Open for collaboration on impactful backend projects
+- 📫 Reach me at: baliyanaman423@gmail.com
 
----
 
-## 💻 Open Source
-- 🛠 Contributor at **Checkstyle**
-- 🧪 Working with **JUnit & PIT Mutation Testing**
-- 🧩 Improving **documentation & example tests**
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,git,github,linux,maven,docker" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
-
 ## 🔥 My GitHub Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Baliyan&show_icons=true&theme=default)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Baliyan&layout=compact)
 
 ---
 
 ## 📫 How to reach me
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN
-- Twitter (X): YOUR_TWITTER
+- GitHub: https://github.com/Aman-Baliyan
+- LinkedIn: https://www.linkedin.com/in/aman-baliyan-573102324/
+- Twitter (X): https://x.com/baliyanaman423 
 
 ---
 
-⭐️ From [Aman Baliyan](https://github.com/YOUR_USERNAME)
+⭐️ From [Aman Baliyan](https://github.com/Aman-Baliyan)
