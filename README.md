@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Aman Baliyan
 
-<!--
-**Aman-Baliyan/Aman-Baliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x)](YOUR_TWITTER)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+I am an **Open Source Contributor & Java Developer** from **India 🇮🇳**
+
+- 🔭 Currently contributing to **Checkstyle**
+- 🌱 Learning **Static Code Analysis, Testing & Tooling**
+- 🎯 Goal: **Google Summer of Code (GSoC)**
+- 💬 Ask me about **Java, Git, Open Source**
+
+---
+
+## 💻 Open Source
+- 🛠 Contributor at **Checkstyle**
+- 🧪 Working with **JUnit & PIT Mutation Testing**
+- 🧩 Improving **documentation & example tests**
+
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,git,github,linux,maven,docker" />
+</p>
+
+---
+
+## 🔥 My GitHub Stats
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 How to reach me
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: YOUR_LINKEDIN
+- Twitter (X): YOUR_TWITTER
+
+---
+
+⭐️ From [Aman Baliyan](https://github.com/YOUR_USERNAME)
