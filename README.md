@@ -30,8 +30,11 @@ Open Source Contributor | Java Developer | CS Student
 </p>
 
 ## 🔥 My GitHub Stats 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Baliyan&show_icons=true&theme=default) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Baliyan&layout=compact)
+
+<p align="left">
+  <img src="https://vercel.app" alt="Aman's GitHub stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Baliyan&layout=compact" alt="Top Langs" height="195" />
+</p>
 
 ---
 
