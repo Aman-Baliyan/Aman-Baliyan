@@ -29,9 +29,6 @@ Open Source Contributor | Java Developer | CS Student
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## 🔥 My GitHub Stats 
-
-[![Aman-Baliyan's GitHub Stats](https://vercel.app)](https://github.com/Aman-Baliyan)
 
 ---
 
