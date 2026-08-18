@@ -31,7 +31,7 @@ Open Source Contributor | Java Developer | CS Student
 
 ## 🔥 My GitHub Stats 
 
-[![Aman-Baliyan's GitHub Stats](https://vercel.app)](https://github.com)
+[![Aman-Baliyan's GitHub Stats](https://vercel.app)](https://github.com/Aman-Baliyan)
 
 ---
 
